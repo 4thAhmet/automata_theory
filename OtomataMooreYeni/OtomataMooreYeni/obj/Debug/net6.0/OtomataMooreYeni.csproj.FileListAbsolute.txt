@@ -1,0 +1,15 @@
+C:\Users\AHMET\Desktop\OtomataMooreYeni\OtomataMooreYeni\bin\Debug\net6.0\OtomataMooreYeni.exe
+C:\Users\AHMET\Desktop\OtomataMooreYeni\OtomataMooreYeni\bin\Debug\net6.0\OtomataMooreYeni.deps.json
+C:\Users\AHMET\Desktop\OtomataMooreYeni\OtomataMooreYeni\bin\Debug\net6.0\OtomataMooreYeni.runtimeconfig.json
+C:\Users\AHMET\Desktop\OtomataMooreYeni\OtomataMooreYeni\bin\Debug\net6.0\OtomataMooreYeni.dll
+C:\Users\AHMET\Desktop\OtomataMooreYeni\OtomataMooreYeni\bin\Debug\net6.0\OtomataMooreYeni.pdb
+C:\Users\AHMET\Desktop\OtomataMooreYeni\OtomataMooreYeni\obj\Debug\net6.0\OtomataMooreYeni.csproj.AssemblyReference.cache
+C:\Users\AHMET\Desktop\OtomataMooreYeni\OtomataMooreYeni\obj\Debug\net6.0\OtomataMooreYeni.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\AHMET\Desktop\OtomataMooreYeni\OtomataMooreYeni\obj\Debug\net6.0\OtomataMooreYeni.AssemblyInfoInputs.cache
+C:\Users\AHMET\Desktop\OtomataMooreYeni\OtomataMooreYeni\obj\Debug\net6.0\OtomataMooreYeni.AssemblyInfo.cs
+C:\Users\AHMET\Desktop\OtomataMooreYeni\OtomataMooreYeni\obj\Debug\net6.0\OtomataMooreYeni.csproj.CoreCompileInputs.cache
+C:\Users\AHMET\Desktop\OtomataMooreYeni\OtomataMooreYeni\obj\Debug\net6.0\OtomataMooreYeni.dll
+C:\Users\AHMET\Desktop\OtomataMooreYeni\OtomataMooreYeni\obj\Debug\net6.0\refint\OtomataMooreYeni.dll
+C:\Users\AHMET\Desktop\OtomataMooreYeni\OtomataMooreYeni\obj\Debug\net6.0\OtomataMooreYeni.pdb
+C:\Users\AHMET\Desktop\OtomataMooreYeni\OtomataMooreYeni\obj\Debug\net6.0\OtomataMooreYeni.genruntimeconfig.cache
+C:\Users\AHMET\Desktop\OtomataMooreYeni\OtomataMooreYeni\obj\Debug\net6.0\ref\OtomataMooreYeni.dll
