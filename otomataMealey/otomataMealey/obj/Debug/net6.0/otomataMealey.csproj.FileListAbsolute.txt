@@ -1,0 +1,15 @@
+C:\Users\AHMET\Desktop\otomataMealey\otomataMealey\bin\Debug\net6.0\otomataMealey.exe
+C:\Users\AHMET\Desktop\otomataMealey\otomataMealey\bin\Debug\net6.0\otomataMealey.deps.json
+C:\Users\AHMET\Desktop\otomataMealey\otomataMealey\bin\Debug\net6.0\otomataMealey.runtimeconfig.json
+C:\Users\AHMET\Desktop\otomataMealey\otomataMealey\bin\Debug\net6.0\otomataMealey.dll
+C:\Users\AHMET\Desktop\otomataMealey\otomataMealey\bin\Debug\net6.0\otomataMealey.pdb
+C:\Users\AHMET\Desktop\otomataMealey\otomataMealey\obj\Debug\net6.0\otomataMealey.csproj.AssemblyReference.cache
+C:\Users\AHMET\Desktop\otomataMealey\otomataMealey\obj\Debug\net6.0\otomataMealey.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\AHMET\Desktop\otomataMealey\otomataMealey\obj\Debug\net6.0\otomataMealey.AssemblyInfoInputs.cache
+C:\Users\AHMET\Desktop\otomataMealey\otomataMealey\obj\Debug\net6.0\otomataMealey.AssemblyInfo.cs
+C:\Users\AHMET\Desktop\otomataMealey\otomataMealey\obj\Debug\net6.0\otomataMealey.csproj.CoreCompileInputs.cache
+C:\Users\AHMET\Desktop\otomataMealey\otomataMealey\obj\Debug\net6.0\otomataMealey.dll
+C:\Users\AHMET\Desktop\otomataMealey\otomataMealey\obj\Debug\net6.0\refint\otomataMealey.dll
+C:\Users\AHMET\Desktop\otomataMealey\otomataMealey\obj\Debug\net6.0\otomataMealey.pdb
+C:\Users\AHMET\Desktop\otomataMealey\otomataMealey\obj\Debug\net6.0\otomataMealey.genruntimeconfig.cache
+C:\Users\AHMET\Desktop\otomataMealey\otomataMealey\obj\Debug\net6.0\ref\otomataMealey.dll
