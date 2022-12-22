@@ -5,6 +5,7 @@ namespace PolishNotation
     internal class Program
     {
         static Stack stack = new Stack();
+        int hata = 0;
         static int convert(string ifade)
         {
             string sayi = "";

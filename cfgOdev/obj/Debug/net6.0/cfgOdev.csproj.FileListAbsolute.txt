@@ -1,0 +1,15 @@
+C:\Users\AHMET\Desktop\cfgOdev\bin\Debug\net6.0\cfgOdev.exe
+C:\Users\AHMET\Desktop\cfgOdev\bin\Debug\net6.0\cfgOdev.deps.json
+C:\Users\AHMET\Desktop\cfgOdev\bin\Debug\net6.0\cfgOdev.runtimeconfig.json
+C:\Users\AHMET\Desktop\cfgOdev\bin\Debug\net6.0\cfgOdev.dll
+C:\Users\AHMET\Desktop\cfgOdev\bin\Debug\net6.0\cfgOdev.pdb
+C:\Users\AHMET\Desktop\cfgOdev\obj\Debug\net6.0\cfgOdev.csproj.AssemblyReference.cache
+C:\Users\AHMET\Desktop\cfgOdev\obj\Debug\net6.0\cfgOdev.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\AHMET\Desktop\cfgOdev\obj\Debug\net6.0\cfgOdev.AssemblyInfoInputs.cache
+C:\Users\AHMET\Desktop\cfgOdev\obj\Debug\net6.0\cfgOdev.AssemblyInfo.cs
+C:\Users\AHMET\Desktop\cfgOdev\obj\Debug\net6.0\cfgOdev.csproj.CoreCompileInputs.cache
+C:\Users\AHMET\Desktop\cfgOdev\obj\Debug\net6.0\cfgOdev.dll
+C:\Users\AHMET\Desktop\cfgOdev\obj\Debug\net6.0\refint\cfgOdev.dll
+C:\Users\AHMET\Desktop\cfgOdev\obj\Debug\net6.0\cfgOdev.pdb
+C:\Users\AHMET\Desktop\cfgOdev\obj\Debug\net6.0\cfgOdev.genruntimeconfig.cache
+C:\Users\AHMET\Desktop\cfgOdev\obj\Debug\net6.0\ref\cfgOdev.dll

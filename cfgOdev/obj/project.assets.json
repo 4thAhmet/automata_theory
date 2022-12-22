@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\AHMET\\Documents\\GitHub\\automata_theory\\PolishNotation\\PolishNotation\\PolishNotation.csproj",
-      "projectName": "PolishNotation",
-      "projectPath": "C:\\Users\\AHMET\\Documents\\GitHub\\automata_theory\\PolishNotation\\PolishNotation\\PolishNotation.csproj",
+      "projectUniqueName": "C:\\Users\\AHMET\\Desktop\\cfgOdev\\cfgOdev.csproj",
+      "projectName": "cfgOdev",
+      "projectPath": "C:\\Users\\AHMET\\Desktop\\cfgOdev\\cfgOdev.csproj",
       "packagesPath": "C:\\Users\\AHMET\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\AHMET\\Documents\\GitHub\\automata_theory\\PolishNotation\\PolishNotation\\obj\\",
+      "outputPath": "C:\\Users\\AHMET\\Desktop\\cfgOdev\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
